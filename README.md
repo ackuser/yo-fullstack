@@ -31,7 +31,7 @@ Run `grunt build` for building and `grunt serve` for preview.
 
 Running `npm test` will run the unit tests with karma.
 
-## Configuration used:
+### Configuration used:
 
 You're using the Angular Full-Stack Generator, version 3.0.0-rc8
 ```
